@@ -15,6 +15,11 @@ Dí cómo será ese paso
 
 Algunas webs permitidas para realizar la acción:
 
-https://monserratenoticias.co/ https://elinformado.co/
+https://monserratenoticias.co/ 
+https://elinformado.co/
+http://digitalfinanzas.com/
+https://esfinanciero.com/
+https://www.despertaresfinancieros.mx
+https://www.noticiasnacional.mx
 
 
