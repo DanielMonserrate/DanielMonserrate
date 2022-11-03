@@ -21,5 +21,11 @@ http://digitalfinanzas.com/
 https://esfinanciero.com/
 https://www.despertaresfinancieros.mx
 https://www.noticiasnacional.mx
+https://puebladiario.mx/
+https://imperiofinanciero.mx/
+https://enlineanoticias.mx/
+https://tiemponoticias.mx/
+https://amanecerciudadano.mx/
+
 
 
