@@ -27,5 +27,7 @@ https://enlineanoticias.mx/
 https://tiemponoticias.mx/
 https://amanecerciudadano.mx/
 https://martinezmarch.es/
+http://digitalestrella.com/
+
 
 
